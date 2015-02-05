@@ -29,8 +29,8 @@ projects will be completed in groups of 2-4 students and presented in written fo
 * short overview of brain anatomy and function
 * how do scientists get to know this? overview of neuroscientific methods
   structural and functional methods
-  lesion studies, MRI, DTI, marking and tracing methods, brainbow
-  fMRI, electode recordings, EEG, TMS, TDCS, TACS (trochę o optycznym EEG - jak się to nazywa)
+  lesion studies, MRI, DTI, marking and tracing methods, (short mention of brainbow - nice pictures)
+  fMRI, electode recordings, EEG, TMS, TDCS/TACS
 * overview of resources helpful in learning about the brain (brain form top to bottom, scholarpedia ...)
 * using Google Scholar and pubmed to find relevant information
 * navigating structure of a neuroscientific paper
