@@ -15,13 +15,23 @@ encountered either self-studying or attending further classes.
   and classroom time is used for more interactive actvities:
   discussion, practical aspects of learning etc.
 
+### **course materials**
+All relevant materials will be posted on https://github.com/mmagnuski/Biology-of-Brain-and-Behavior ahead of time. The course function is supportive to the module lectures (*A journey inside the brain – from neuroanatomy to behavior* and *Physiological mechanisms of mental functions*), so attending lectures and reading lecture materials is assumend.
+
 ### **STUDENT PROJECT**
-projects will be completed in groups of 2-4 students and presented in written form
-* find something neuroscientific that interests you: maybe function(s) of a given brain region (or a network o regions), or mechanisms of some psychological funcion (other topics are also possible for example: how brain connectivity influences psychological phenomena; what are the neural mechanisms of a specific disorder)
-* look for materials about this topic (google scholar, pubmed, science blogs, scholarpedia, book chapters)
+Projects will be completed in groups of 2-4 students and presented in a written form. The main idea of the project is to practice: 
+* searching for neuroscientific information in available literature
+* selecting relevant materials 
+* reading less technical neuroscientific papers
+* summarizing content of these materials
+
+The projects will be completed in 5 steps. Students will:
+* choose a topic for their project from a list of topics given by the teacher. Students can propose and consult topics for the project if they prefer so. The topics can range from function(s) of a given brain region (or a network o regions); mechanisms of given psychological funcion; how brain connectivity influences psychological phenomena; what are the neural mechanisms of a specific disorder etc.
+* look for materials about this topic (google scholar, pubmed, science blogs, scholarpedia, book chapters).
 * read through these sources, especially abstracts of scientific publications, sum up initial findings
 * choose a few papers, look through figures, conclusions (maybe introduction too). describe what you understood, consult what you do not with the teacher
-* your final selection should consist of at least one experimental paper that you will discuss in a written form, consider looking for a review paper or some other source of general background information
+* write a summary on the basis of final selection of materials (this should consist of at least one experimental paper). Critical discussion of the materials will be encouraged.
+Consultation and help from the teacher will be available at each of theses steps.
 
 ### IN-CLASS MEETINGS:
 #### INTRODUCTION TO NEUROSCIENCE and its METHODS
@@ -43,7 +53,6 @@ projects will be completed in groups of 2-4 students and presented in written fo
 * understanding brain anatomy - overview of brain structures 
 * presentation of a chosen interactive brain atlas
 
-
 #### FROM STRUCTURE TO FUNCTION part I -  *motor and sensory systems*
 * relationship between brain structure and function
 * architecture of the visual system - how the visual information is processed
@@ -51,12 +60,11 @@ projects will be completed in groups of 2-4 students and presented in written fo
 * motor system - how movements are planned and executed
 
 #### FROM STRUCTURE TO FUNCTION part II - *architecture of emotion and cognition*
-* brain regions responsible for control of attention
-* memory (short and long term)
-* fear and happieness
-* motivation, reward system
-* decision making
-
+* brain mechanisms responsible for: 
+- control of attention
+- memory (short and long term)
+- emotions
+- decision making
 
 #### NEURAL OSCILLATIONS and BRAIN NETWORKS
 * networks of communicating brain cells/regions - the real building block of cognition
@@ -65,11 +73,5 @@ projects will be completed in groups of 2-4 students and presented in written fo
 * the role of brain oscillations in network formation and information flow
 
 #### NEUROSCIENCE AND PHILOSOPHY - *brain mechanisms of consciousness and free will (volition)*
-* consciousness - global neuronal workspace, integrated information, higher order theories of consciousnes, radical plasticity thesis
-* volition - Liebet and Soon experiments (unconscious precursors of conscious choices), mechanisms of agency and ownership (the feeling that we are in control of the actions) 
-
-### **OPTIONAL**
-This plan does not cover some (arguably important) topics but I can optionally push them somewhere:
-- memory systems, neuroplasticity
-- neurotransmitters and how they regulate brain function (above what is being covered in synaptic transmission)
-- how to build a cognitive system: evolutionary history of human brain
+* contemporary neurocognitive theories of consciousness - global neuronal workspace, integrated information, higher order theories of consciousnes, radical plasticity thesis
+* neural mechanisms of volition - Liebet and Soon experiments (unconscious precursors of conscious choices), mechanisms of agency and ownership (the feeling that we are in control of the actions) 
