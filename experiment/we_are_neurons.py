@@ -138,7 +138,7 @@ win.flip()
 # save dataframe
 tm = dt.datetime.now()
 tm = tm.strftime('%H.%M')
-df.to_csv('data_'+tm+'.scv')
+df.to_csv('data_'+tm+'.csv')
 
 k = event.waitKeys()
 
