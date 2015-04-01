@@ -39,6 +39,13 @@ Time2 = visual.TextStim(win, units='norm', height=0.1, pos=(0, 0.6))
 current_time_text = 'Recorded travel time:  '
 mean_time_text = 'Mean travel time:  '
 
+# fix for PsychoPy standalone:
+text = "..."
+txt.setText(text)
+txt.draw()
+win.flip()
+event.waitKeys()
+
 # setup subplots
 f, (ax1, ax2) = plt.subplots(1, 2, sharey=True)
 info_img = visual.ImageStim(win, image=None,  
